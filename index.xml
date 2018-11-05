@@ -1,105 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mediumish</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Mediumish</description>
+    <title>Erster Wiener Roundnet Verein</title>
+    <link>https://roundnet-vienna.com/</link>
+    <description>Recent content on Erster Wiener Roundnet Verein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>John Doe - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://roundnet-vienna.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ninth</title>
-      <link>https://example.com/blog/ninth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
+      <title>Creating a New Theme</title>
+      <link>https://roundnet-vienna.com/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/ninth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+      <guid>https://roundnet-vienna.com/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.</description>
     </item>
     
     <item>
-      <title>Eighth</title>
-      <link>https://example.com/blog/eighth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>https://roundnet-vienna.com/post/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/eighth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+      <guid>https://roundnet-vienna.com/post/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static.</description>
     </item>
     
     <item>
-      <title>Seventh</title>
-      <link>https://example.com/blog/seventh/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:29 +0200</pubDate>
+      <title>About Hugo</title>
+      <link>https://roundnet-vienna.com/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/seventh/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+      <guid>https://roundnet-vienna.com/about/</guid>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+It makes use of a variety of open source projects including:</description>
     </item>
     
     <item>
-      <title>Sixth</title>
-      <link>https://example.com/blog/sixth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
+      <title>(Hu)go Template Primer</title>
+      <link>https://roundnet-vienna.com/post/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/sixth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+      <guid>https://roundnet-vienna.com/post/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic.</description>
     </item>
     
     <item>
-      <title>Fifth</title>
-      <link>https://example.com/blog/fifth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
+      <title>Getting Started</title>
+      <link>https://roundnet-vienna.com/post/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/fifth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Fourth</title>
-      <link>https://example.com/blog/fourth/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
-      
-      <guid>https://example.com/blog/fourth/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Third</title>
-      <link>https://example.com/blog/third/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
-      
-      <guid>https://example.com/blog/third/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>https://example.com/blog/second/</link>
-      <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
-      
-      <guid>https://example.com/blog/second/</guid>
-      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://example.com/blog/my-first-post/</link>
-      <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
-      
-      <guid>https://example.com/blog/my-first-post/</guid>
-      <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum.</description>
-    </item>
-    
-    <item>
-      <title>Imprint</title>
-      <link>https://example.com/static/imprint/</link>
-      <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
-      
-      <guid>https://example.com/static/imprint/</guid>
-      <description>Imprint Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
+      <guid>https://roundnet-vienna.com/post/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.</description>
     </item>
     
   </channel>

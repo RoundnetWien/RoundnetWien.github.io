@@ -1,32 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mediumish</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Mediumish</description>
+    <title>Tags on Erster Wiener Roundnet Verein</title>
+    <link>https://roundnet-vienna.com/tags/</link>
+    <description>Recent content in Tags on Erster Wiener Roundnet Verein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>John Doe - All rights reserved</copyright>
-    <lastBuildDate>Sun, 07 Oct 2018 11:40:14 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://roundnet-vienna.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Drink</title>
-      <link>https://example.com/tags/drink/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
+      <title>Development</title>
+      <link>https://roundnet-vienna.com/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/drink/</guid>
+      <guid>https://roundnet-vienna.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Interesting</title>
-      <link>https://example.com/tags/interesting/</link>
-      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
+      <title>Go</title>
+      <link>https://roundnet-vienna.com/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/interesting/</guid>
+      <guid>https://roundnet-vienna.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://roundnet-vienna.com/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://roundnet-vienna.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://roundnet-vienna.com/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://roundnet-vienna.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Templates</title>
+      <link>https://roundnet-vienna.com/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://roundnet-vienna.com/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>https://roundnet-vienna.com/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://roundnet-vienna.com/tags/themes/</guid>
       <description></description>
     </item>
     
