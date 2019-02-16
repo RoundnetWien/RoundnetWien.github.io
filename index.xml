@@ -6,28 +6,38 @@
     <description>Recent content on Erster Wiener Roundnet Verein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://roundnet-vienna.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Indoor Tournament</title>
-      <link>https://roundnet-vienna.com/tournament/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Spieltermine Februar</title>
+      <link>https://roundnet-vienna.com/post/2019-02-16_spieltermine_februar/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://roundnet-vienna.com/tournament/</guid>
-      <description>Anmeldung Sei dabei! Um die Planung zu erleichtern bitten wir um rechtzeitige Anmeldung (es gibt nur eine begrenzte Anzahl an Startpl&amp;auml;tzen!) 
- sed diam voluptua.</description>
+      <guid>https://roundnet-vienna.com/post/2019-02-16_spieltermine_februar/</guid>
+      <description>Wir spielen im Februar an den folgenden Tagen in der WU Sporthalle (jeweils von 18.30 - 21.00):
+ Montag, 14. Februar Montag, 20. Februar Mittwoch 20.</description>
     </item>
     
     <item>
-      <title>News November</title>
-      <link>https://roundnet-vienna.com/post/first_post/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <title>Breakfast Spike</title>
+      <link>https://roundnet-vienna.com/post/2019-01-19_breakfast_spike/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://roundnet-vienna.com/post/first_post/</guid>
-      <description>We are live! Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>https://roundnet-vienna.com/post/2019-01-19_breakfast_spike/</guid>
+      <description>Wir spielen im Februar an den folgenden Tagen in der WU Sporthalle (jeweils von 18.30 - 21.00):
+ Montag, 14. Februar Montag, 20. Februar Mittwoch 20.</description>
+    </item>
+    
+    <item>
+      <title>Vereinsmeisterschaften 2019</title>
+      <link>https://roundnet-vienna.com/post/2019-01-05_vereinsmeisterschaften/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://roundnet-vienna.com/post/2019-01-05_vereinsmeisterschaften/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -36,7 +46,9 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://roundnet-vienna.com/about/</guid>
-      <description>Homepage content coming soon.</description>
+      <description>Homepage content coming soon.
+Statuten:
+Mitgliedsantrag</description>
     </item>
     
   </channel>
