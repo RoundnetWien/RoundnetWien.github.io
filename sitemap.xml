@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://roundnet-vienna.com/post/2019-06-08_vereinsausflug/</loc>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roundnet-vienna.com/post/2019-06-08_spieltermine_juni-/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://roundnet-vienna.com/post/2019-03-08_spieltermine_m%C3%A4rz/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
@@ -39,13 +49,13 @@
   
   <url>
     <loc>https://roundnet-vienna.com/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://roundnet-vienna.com/post/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
