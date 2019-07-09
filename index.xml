@@ -6,10 +6,19 @@
     <description>Recent content on Erster Wiener Roundnet Verein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://roundnet-vienna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Training am Donnerstag</title>
+      <link>https://roundnet-vienna.com/post/2019-07-09_spieltermine_sommer/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://roundnet-vienna.com/post/2019-07-09_spieltermine_sommer/</guid>
+      <description>Tolle Nachrichten f&amp;uuml;r alle, die (i) beim n&amp;auml;chsten Turnier noch besser gegen die wirklich starken aus Graz, Tschechien, Slovenien und dem Rest der Welt abschneiden wollen, die (ii) immer mal wieder neidisch die grandiosen abgez&amp;auml;unten Grasfl&amp;auml;chen im Auer-Welsbach-Park bewundert haben und die (iii) einfach gerne gemeinsam Roundnet spielen:</description>
+    </item>
     
     <item>
       <title>Vereinsausflug Austrian Open</title>
@@ -82,7 +91,7 @@
       
       <guid>https://roundnet-vienna.com/termine/</guid>
       <description>Alle Termine des Ersten Wiener Roundnet Vereins
-   Datum Event      Samstag, 06. Juli 1st Austrian Open (Graz)    Donnerstag, 04.</description>
+   Datum Event      Samstag, 03. August (10:00 - 12:00) Breakfast Spike (Heldenplatz)    Donnerstag, 01.</description>
     </item>
     
   </channel>
