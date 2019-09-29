@@ -4,19 +4,24 @@
   
   <url>
     <loc>https://roundnet-vienna.com/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://roundnet-vienna.com/post/2019-09-19_breakfast_spike_winter/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://roundnet-vienna.com/post/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://roundnet-vienna.com/post/2019-08-05_news_turnier/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://roundnet-vienna.com/post/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

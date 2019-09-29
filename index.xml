@@ -6,10 +6,19 @@
     <description>Recent content on Erster Wiener Roundnet Verein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://roundnet-vienna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wintersaison - Breakfast Spike!</title>
+      <link>https://roundnet-vienna.com/post/2019-09-19_breakfast_spike_winter/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://roundnet-vienna.com/post/2019-09-19_breakfast_spike_winter/</guid>
+      <description>Breakfast Spike wird auch im Winter weitergehen! In unserem Kalender sind bereits die folgenden vier Termine festgehalten, an welchen wir wieder von 10:00 - 12:00 in der WU Sporthalle trainieren werden:</description>
+    </item>
     
     <item>
       <title>1st Vienna Mixed Tournament</title>
@@ -118,7 +127,7 @@
       
       <guid>https://roundnet-vienna.com/termine/</guid>
       <description>Alle Termine des Ersten Wiener Roundnet Vereins
-   Datum Event      Donnerstag, 28. November Weihnachtsfeier    &amp;hellip; &amp;hellip;    Samstag, 05.</description>
+   Datum Event      Samstag, 14. Dezember (10:00 - 12:00) Breakfast Spike (Sporthalle)    Samstag, 07.</description>
     </item>
     
   </channel>
