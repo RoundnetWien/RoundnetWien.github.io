@@ -6,10 +6,19 @@
     <description>Recent content on Erster Wiener Roundnet Verein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://roundnet-vienna.com/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Coronavirus Spielregeln Mai 2021</title>
+      <link>https://wiener-roundnet.com/?coronamay2021</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wiener-roundnet.com/?corona</guid>
+      <description>Aufgrund der aktuellen Coronavirus Situation gelten für unsere regelmäßig abgehaltenen Trainings aktualisierte Hygienevorschriften. Diese können hier eingesehen werden.</description>
+    </item>  
+
     <item>
       <title>Coronavirus Spielregeln</title>
       <link>https://wiener-roundnet.com/?corona</link>
